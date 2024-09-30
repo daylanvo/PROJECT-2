@@ -1,0 +1,20 @@
+h1 {
+    font-size:450%;
+    text-align: center;
+    border:  5px solid darkblue;
+}
+
+li {
+    font-weight: bold;
+}
+
+img {
+    width: 320px;
+    height: 320px;
+    margin: 10px;
+    border: solid black 5px
+}
+
+a {
+    font-size:100px;
+}
